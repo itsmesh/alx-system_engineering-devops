@@ -1,1 +1,1 @@
-## 0x02-shell_redirections
+A script that displays a confused smiley
